@@ -101,7 +101,7 @@ public class LoginController
             {
                 // employee.setWechatOpenId(userName);
             }
-        */
+        */ 
 
         if (employeeTemp != null)
         {
